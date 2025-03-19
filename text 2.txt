@@ -1,0 +1,72 @@
+Ivan Strelyanyy, [Mar 19, 2025 at 09:41]
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Відомі боксери</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Відомі боксери</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Головна</a></li>
+                <li><a href="history.html">Історія боксу</a></li>
+                <li><a href="boxers.html">Відомі боксери</a></li>
+                <li><a href="contact.html">Контакти</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Легенди боксу</h2>
+        <table>
+            <tr>
+                <th>Ім'я</th>
+                <th>Країна</th>
+                <th>Досягнення</th>
+            </tr>
+            <tr>
+                <td>Мухаммед Алі</td>
+                <td>США</td>
+                <td>Олімпійський чемпіон, триразовий чемпіон світу у важкій вазі.</td>
+            </tr>
+            <tr>
+                <td>Майк Тайсон</td>
+                <td>США</td>
+                <td>Наймолодший чемпіон у важкій вазі.</td>
+            </tr>
+            <tr>
+                <td>Володимир Кличко</td>
+                <td>Україна</td>
+                <td>Чемпіон світу за версіями WBA, IBF, WBO, IBO.</td>
+            </tr>
+            <tr>
+                <td>Олександр Усик</td>
+                <td>Україна</td>
+                <td>Абсолютний чемпіон у важкій вазі та Олімпійський призер.</td>
+            </tr>
+            <tr>
+                <td>Джервонта Девіс</td>
+                <td>США</td>
+                <td>Чемпіон світу в трьох вагових категоріях.</td>
+            </tr>
+            <tr>
+                <td>Василь Ломаченко</td>
+                <td>Україна</td>
+                <td>Дворазовий олімпійський чемпіон, чемпіон світу в трьох вагових категоріях.</td>
+            </tr>
+        </table>
+        <hr> <!-- Горизонтальна лінія -->
+
+        <!-- Посилання на джерело -->
+        <p>Детальніше про боксерів читайте на сайті <a href="https://www.boxingnews24.com" target="_blank">Boxing News</a>.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Світ боксу</p>
+    </footer>
+</body>
+</html>
